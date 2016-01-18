@@ -1,0 +1,31 @@
+{
+  "name": "webpack-workflow",
+  "version": "1.0.0",
+  "description": "用wepack、react搭建一个自动化符合es6标准的前端工程模版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andybruse/webpack-workflow.git"
+  },
+  "author": "louiszhu.zgf@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andybruse/webpack-workflow/issues"
+  },
+  "homepage": "https://github.com/andybruse/webpack-workflow#readme",
+  "dependencies": {
+    "react": "^0.14.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7"
+  }
+}
