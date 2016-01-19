@@ -1,0 +1,21 @@
+{
+  "name": "webpack-workflow",
+  "description": "用wepack、react搭建一个自动化符合es6标准的前端工程模版",
+  "main": "index.js",
+  "authors": [
+    "louis.zhu"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/andybruse/webpack-workflow",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
