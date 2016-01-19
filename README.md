@@ -1,4 +1,4 @@
-# webpack-workflow
+# webpack app project
 用wepack、react搭建一个自动化符合es6标准的前端工程模版
 
 * webpack作为打包工具
